@@ -1,0 +1,10 @@
+KPI,Value
+Total Sales,1339274
+Average Spend per Customer,607.38
+Average Order Value (AOV),37.55
+Monetary by Product Category,Wine: 673387€; Fruits: 58054€; Meat: 368666€; Fish: 82837€; Sweets: 59739€; Gold: 96591€
+Top Product Category by Spend,Wine: 673387€
+Spend Distribution by Category (%),Wine: 50.28%; Fruits: 4.33%; Meat: 27.53%; Fish: 6.19%; Sweets: 4.46%; Gold: 7.21%
+Avg Spend by Marital Status,Married: 591.46€; Together: 607.63€; Divorced: 612.99€; Single: 613.85€; Widow: 727.96€
+Avg Spend by Income Bracket,<20k: 72.69€; 20–40k: 98.45€; 40–60k: 402.30€; 60–80k: 1108.38€; 80–100k: 1551.64€; 100–150k: 1097.60€; 150k+: 747.86€
+High Value Customers %,13.11%
