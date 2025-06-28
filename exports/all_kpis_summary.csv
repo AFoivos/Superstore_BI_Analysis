@@ -1,0 +1,36 @@
+KPI,Value,KPI_Category
+Total Customers,2205,Customer
+Average Age,45.1,Customer
+% With Children,71.43%,Customer
+Children Distribution,Yes: 1575; No: 630,Customer
+Average Customer Tenure (Years),0.97,Customer
+Marital Status Distribution,Married: 38.87%; Together: 25.90%; Single: 21.32%; Divorced: 10.48%; Widow: 3.45%,Customer
+Education Level Distribution,Graduate: 50.48%; Postgraduate: 38.10%; Undergraduate: 11.43%,Customer
+Customer Growth per Year,2012: 487; 2013: 1169; 2014: 549,Customer
+Complaint Rate,0.91%,Customer
+Response Rate,14.97%,Customer
+Active vs Passive Customers,Passive: 67.66%; Active: 32.34%,Customer
+Total Sales,1339274,Sales
+Average Spend per Customer,607.38,Sales
+Average Order Value (AOV),37.55,Sales
+Monetary by Product Category,Wine: 673387€; Fruits: 58054€; Meat: 368666€; Fish: 82837€; Sweets: 59739€; Gold: 96591€,Sales
+Top Product Category by Spend,Wine: 673387€,Sales
+Spend Distribution by Category (%),Wine: 50.28%; Fruits: 4.33%; Meat: 27.53%; Fish: 6.19%; Sweets: 4.46%; Gold: 7.21%,Sales
+Avg Spend by Marital Status,Married: 591.46€; Together: 607.63€; Divorced: 612.99€; Single: 613.85€; Widow: 727.96€,Sales
+Avg Spend by Income Bracket,<20k: 72.69€; 20–40k: 98.45€; 40–60k: 402.30€; 60–80k: 1108.38€; 80–100k: 1551.64€; 100–150k: 1097.60€; 150k+: 747.86€,Sales
+High Value Customers %,13.11%,Sales
+Avg Web Purchases,4.08,Channel
+Avg Catalog Purchases,2.67,Channel
+Avg Store Purchases,5.81,Channel
+Purchase Channel Preference,Store: 66.03%; Web: 26.85%; Catalog: 7.12%,Channel
+Overall Campaign Response Rate,14.97%,Campaign
+Response Rate by Marital Status,Divorced: 20.78%; Married: 11.44%; Single: 22.55%; Together: 10.51%; Widow: 23.68%,Campaign
+Response Rate by Education Level,Graduate: 13.57%; Postgraduate: 18.45%; Undergraduate: 9.52%,Campaign
+Campaign Lift (Avg Spend),83.20% increase,Campaign
+Response Rate by RFM Level,High Value: 31.14%; Low Value: 7.41%; Mid-High: 19.11%; Mid-Low: 14.64%,Campaign
+Response by Preferred Channel,Catalog: 35.67%; Store: 10.23%; Web: 21.11%,Campaign
+Avg Recency (Days),49.08,Behavior_RFM
+Frequency Distribution,0: 6; 1: 5; 2: 2; 3: 124; 4: 199; 5: 178; 6: 188; 7: 125; 8: 50; 9: 44; 10: 54; 11: 77; 12: 62; 13: 75; 14: 94; 15: 83; 16: 98; 17: 88; 18: 101; 19: 85; 20: 85; 21: 84; 22: 75; 23: 63; 24: 52; 25: 39; 26: 24; 27: 22; 28: 10; 29: 6; 30: 2; 31: 2; 32: 3,Behavior_RFM
+RFM Score Distribution (Top 10),411: 88; 311: 85; 122: 83; 511: 77; 522: 72; 433: 72; 222: 71; 322: 70; 533: 63; 133: 62,Behavior_RFM
+Top RFM Segment,411 (88 customers),Behavior_RFM
+Customers by RFM Level (%),Low Value: 39.18%; Mid-Low: 25.40%; Mid-High: 22.31%; High Value: 13.11%,Behavior_RFM
